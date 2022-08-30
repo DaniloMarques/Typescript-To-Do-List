@@ -7,7 +7,7 @@ This is a simple To-Do list made in typescript in order to put into practice the
 Initializing the project is very simple, just follow the following steps:
 
 - Make sure you have **nodejs** installed in your computer.
-- I download the project to your computer.
+- Download the project to your computer.
 - Run the following commands:
 
 ```bash
