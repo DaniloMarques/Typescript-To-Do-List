@@ -17,3 +17,5 @@ npm install
 # Starts the application
 npm start
 ```
+
+![image](https://user-images.githubusercontent.com/3705088/187326471-419e9f08-04d2-4de7-a896-8cf1d5af414d.png)
